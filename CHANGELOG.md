@@ -2,13 +2,8 @@
 
 ## 3.18.0
 
-### Minor Changes
-
 -   abfaf6c: Add newly formatted LS tool
 -   3c7a42c: Add grep tool with new parsing format
-
-### Patch Changes
-
 -   9f59b60: browserConnectionResult protobus migration/removal
 -   9818d97: Refatored system prompt with switch capabilities
 -   29d3175: Added alt readTool & writeTool tool calls
